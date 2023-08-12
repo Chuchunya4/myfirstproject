@@ -1,0 +1,2 @@
+Это игра Камень-Ножницы-Бумага. Мой первый проект :)
+This is a Rock-Paper-Scissors game. My first project :)
